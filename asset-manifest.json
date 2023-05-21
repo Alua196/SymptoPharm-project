@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SymptoPharm-project/static/css/main.b69b967a.css",
+    "main.js": "/SymptoPharm-project/static/js/main.29d0a55c.js",
+    "static/media/remixicon.svg?t=1590207869815": "/SymptoPharm-project/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/SymptoPharm-project/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/SymptoPharm-project/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/common-section-bg.jpg": "/SymptoPharm-project/static/media/common-section-bg.0ca6da27b2219b917ebe.jpg",
+    "static/media/counter-timer-img.png": "/SymptoPharm-project/static/media/counter-timer-img.f2550269c49d9ab1ab8a.png",
+    "static/media/remixicon.woff?t=1590207869815": "/SymptoPharm-project/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/SymptoPharm-project/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/eco-logo.png": "/SymptoPharm-project/static/media/eco-logo.88bf623660d21b266be6.png",
+    "static/media/hero-img-1.png": "/SymptoPharm-project/static/media/hero-img-1.e2772e2d4bbc80e1c919.png",
+    "index.html": "/SymptoPharm-project/index.html",
+    "main.b69b967a.css.map": "/SymptoPharm-project/static/css/main.b69b967a.css.map",
+    "main.29d0a55c.js.map": "/SymptoPharm-project/static/js/main.29d0a55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b69b967a.css",
+    "static/js/main.29d0a55c.js"
+  ]
+}
